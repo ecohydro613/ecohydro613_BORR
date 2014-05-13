@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="COLOR_TABLE_RULE_RGB_0">0.000000e+000 1.800000e+002 0 0 0 255 255 255</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_1">1.800000e+002 3.600000e+002 255 255 255 0 0 0</MDI>
+      <MDI key="COLOR_TABLE_RULES_COUNT">2</MDI>
+      <MDI key="STATISTICS_MAXIMUM">360</MDI>
+      <MDI key="STATISTICS_MEAN">185.5096853026</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">100.38948733319</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

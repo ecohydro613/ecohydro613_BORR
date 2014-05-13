@@ -1,0 +1,5 @@
+BORR site averages
+
+Elevation: 2377.9389721757
+Slope: 52.7026596079
+Aspect: 185.5096853026
